@@ -19,7 +19,7 @@ title: Rules
             -  Zaprezentowanie rozwiązania na zajęciach
             -  Termin wysłania jest określony dla każdej listy i jest to termin nieprzekraczalny
             -  W przypadku  nieobecności  na  zajęciach  student  do  rozpoczęcia  zajęć,  na  których  oddawana  jest  dana lista zadań powinien wysłać jej rozwiązanie mailem/w systemie do prowadzącego oraz zaprezentować rozwiązanie na pierwszych zajęciach po nieobecności. W przeciwnym przypadku lista nie będzie sprawdzana
-            -  Za listę wysłaną po terminie lub niezaprezentowaną student otrzymuje 0 punktów
+            -  Za listę wysłaną po terminie lub niezaprezentowaną student może otrzymać maksymalnie 50% punktów
         5.  Samodzielność wykonywania
 5.  Skala ocen
 
