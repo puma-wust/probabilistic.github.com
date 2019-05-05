@@ -3,7 +3,7 @@ layout: category
 title: Reading
 ---
 
-# Reading before the lecture
+### Reading before the lecture
 
 *   07.05.2019
     * conditional independence [Section 8.2 of Christopher M. Bishop, Pattern Recognition and
