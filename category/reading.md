@@ -12,6 +12,7 @@ Machine Learning](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20
 
 *   14.05.2019
 *   21.05.2019
+    * Variational Inference [presentation at NIPS 2016](https://media.nips.cc/Conferences/2016/Slides/6199-Slides.pdf)
 *   28.05.2019
 *   04.06.2019
 *   11.06.2019
