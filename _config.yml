@@ -1,0 +1,20 @@
+title: PUMA @ WrUST
+logo: /assets/img/logo.png
+description: Probabilisitc Machine Learning @ Wrocław University of Science and Technology
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-minimal
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
