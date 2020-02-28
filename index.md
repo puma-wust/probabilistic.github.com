@@ -9,6 +9,6 @@ layout: default
 ## [L00](https://github.com/puma-wust/base-l00-2020)
 
 # Lectures
-## [Lecture-intro](/static/W0-intro.pdf)
-## [W1](/static/W1.pdf)
+## [Lecture-intro](/static/PUMA2020_lecture_0.pdf)
+## [W1](/static/PUMA2020_lecture_1.pdf)
 
