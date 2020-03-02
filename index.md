@@ -10,9 +10,9 @@ layout: default
 
 # Lectures
 ## Lecture 1 
-[slides]  
-#### [intro](/static/PUMA2020_lecture_0.pdf)  
-#### [L1](/static/PUMA2020_lecture_1.pdf)  
+#### [slides]  
+[intro](/static/PUMA2020_lecture_0.pdf)  
+[L1](/static/PUMA2020_lecture_1.pdf)  
 ## Lecture 2
 #### [Pre-reading]
 [Introduction to Probability with Statistical Applications, Géza Schay](https://link.springer.com/book/10.1007%2F978-0-8176-4591-5)  
