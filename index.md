@@ -14,6 +14,6 @@ layout: default
 #### [L1](/static/PUMA2020_lecture_1.pdf)
 ## Lecture 2
 #### [Pre-reading]
-[Introduction to Probability with Statistical Applications, Géza Schay](https://link.springer.com/book/10.1007%2F978-0-8176-4591-5)
+[Introduction to Probability with Statistical Applications, Géza Schay](https://link.springer.com/book/10.1007%2F978-0-8176-4591-5)  
 Chapter 4 - Random Variables (p.71 - 126)  
 Chapter 5 - Expectation, Variance, Moments (p.127 - 176) 
