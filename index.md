@@ -4,9 +4,9 @@ layout: default
 
 
 # Laboratories
+## [Current grading](https://docs.google.com/spreadsheets/d/1F8VizwnzOVgrZ6KpPuCqaYm6Wj_S_PJIXQFRgUROfsY/edit?usp=sharing)
 ## [L00-lab-intro](/static/l00-lab-intro.pdf)
 ## [L00-python-intro](/static/l00-python-intro.pdf)
-## [L00](https://github.com/puma-wust/base-l00-2020)
 
 # Lectures
 ## Lecture 1 
