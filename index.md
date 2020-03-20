@@ -33,3 +33,7 @@ Chapter 5 - Expectation, Variance, Moments (p.127 - 176)
 ## [L00-lab-intro](/static/l00-lab-intro.pdf)
 ## [L00-python-intro](/static/l00-python-intro.pdf)
 
+# Projects
+## [Project 1 Intro](/static/project-1.pdf)
+## [Project 1 Teams](https://docs.google.com/spreadsheets/d/1F8VizwnzOVgrZ6KpPuCqaYm6Wj_S_PJIXQFRgUROfsY/edit?ts=5e615272#gid=11309230)
+
