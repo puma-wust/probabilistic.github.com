@@ -28,6 +28,15 @@ Chapter 5 - Expectation, Variance, Moments (p.127 - 176)
 #### [slides]
 [L3](/static/PUMA2020_lecture_3.pdf)
 
+
+## Lecture 4
+#### [Pre-reading]
+no pre-reading
+
+#### [slides]
+[L4](/static/PUMA2020_lecture_4.pdf)
+
+
 # Laboratories
 ## [Current grading](https://docs.google.com/spreadsheets/d/1F8VizwnzOVgrZ6KpPuCqaYm6Wj_S_PJIXQFRgUROfsY/edit?usp=sharing)
 ## [L00-lab-intro](/static/l00-lab-intro.pdf)
