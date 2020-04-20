@@ -12,6 +12,7 @@ layout: default
 |5|[A Tutorial on Bayesian Nonparametric Models, p. 1-9, sec. 1 and 2](https://www.cs.princeton.edu/courses/archive/fall11/cos597C/reading/GershmanBlei2011.pdf)|L5|
 |6|no pre-reading|[L6](/static/PUMA2020_lecture_6.pdf)
 |7|no pre-reading|[L7](/static/PUMA2020_lecture_7.pdf)
+|8|[Data Analysis with Latent Variable Models](http://www.cs.columbia.edu/~blei/papers/Blei2014b.pdf)
 
 # Laboratories
 ## [Current grading](https://docs.google.com/spreadsheets/d/1F8VizwnzOVgrZ6KpPuCqaYm6Wj_S_PJIXQFRgUROfsY/edit?usp=sharing)
