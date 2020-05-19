@@ -14,6 +14,8 @@ layout: default
 |7|no pre-reading|[L7](/static/PUMA2020_lecture_7.pdf)
 |8|[Data Analysis with Latent Variable Models](http://www.cs.columbia.edu/~blei/papers/Blei2014b.pdf)|[L8](/static/PUMA2020_lecture_8.pdf)
 |9|no pre-reading|[L9](/static/PUMA2020_lecture_9.pdf)
+|10|no pre-reading|[L10](/static/PUMA2020_lecture_10.pdf)
+|11|[Hidden Markov Models Simplified](https://medium.com/@postsanjay/hidden-markov-models-simplified-c3f58728caab)|[L11]
  
 # Laboratories
 ## [Current grading](https://docs.google.com/spreadsheets/d/1F8VizwnzOVgrZ6KpPuCqaYm6Wj_S_PJIXQFRgUROfsY/edit?usp=sharing)
