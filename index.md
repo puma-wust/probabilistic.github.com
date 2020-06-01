@@ -27,7 +27,7 @@ layout: default
 |1|18.06.2020 11:15|remote|
 |2|25.06.2020 11:15|remote|
 
-#### Scope:
+#### Scope for round 0 exam:
 
 -Probability Space. Sample space. Events. Venn diagrams. Relations between events. Probability. Probabilistic vs frequentonist. Kolmogorov’s Axioms. Symmetry. Deductions from Axioms. Conditional Probability. Independence. Law of Total Probability. Bayes’ theorem. Random Variables. Representatives of interesting RV. 
 - Joint Distributions. Independence of Random Variables. Expected Value. Variance and Standard Deviation. Moments and Generating Functions. Covariance and Correlation. Conditional Expectation. Median and Quantiles. Bayesian probability. Likelihood function. Bayesian inference. Bayesian versus Frequentist Inference. Prior. Empirical Bayes. Large Sample Theory. Ability to solve similar to `the number game'. Occam razor. Beta-binomial model. Conjugate priors (to Bernoulli, Binomial, Categorical, Multinomial likelihood). Bayesian Linear Regression vs Frequentonist regression. Gaussian Mixture Model. Multivariate Gaussian. Mutual information. 
