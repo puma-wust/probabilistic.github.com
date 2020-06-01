@@ -22,14 +22,16 @@ layout: default
 |15||
 
 ### Exam:
-|Round|Date|Form||
+
+|Round|Date|Form|
+| :---: | --- | :---: |
 |0|12.06.2020 9:15|remote| 
 |1|18.06.2020 11:15|remote|
 |2|25.06.2020 11:15|remote|
 
 #### Scope for round 0 exam:
 
--Probability Space. Sample space. Events. Venn diagrams. Relations between events. Probability. Probabilistic vs frequentonist. Kolmogorov’s Axioms. Symmetry. Deductions from Axioms. Conditional Probability. Independence. Law of Total Probability. Bayes’ theorem. Random Variables. Representatives of interesting RV. 
+- Probability Space. Sample space. Events. Venn diagrams. Relations between events. Probability. Probabilistic vs frequentonist. Kolmogorov’s Axioms. Symmetry. Deductions from Axioms. Conditional Probability. Independence. Law of Total Probability. Bayes’ theorem. Random Variables. Representatives of interesting RV. 
 - Joint Distributions. Independence of Random Variables. Expected Value. Variance and Standard Deviation. Moments and Generating Functions. Covariance and Correlation. Conditional Expectation. Median and Quantiles. Bayesian probability. Likelihood function. Bayesian inference. Bayesian versus Frequentist Inference. Prior. Empirical Bayes. Large Sample Theory. Ability to solve similar to `the number game'. Occam razor. Beta-binomial model. Conjugate priors (to Bernoulli, Binomial, Categorical, Multinomial likelihood). Bayesian Linear Regression vs Frequentonist regression. Gaussian Mixture Model. Multivariate Gaussian. Mutual information. 
 - Statistic. Estimators. Test Statistics. Point vs. Interval estimators. Information criteria. AIC. BIC. Likelihood-ratio test. Least squares estimation. Maximum likelihood estimation. MLE procedures: explicit, iterative. Bayesian estimation. MAP. MMSE. MCMC. Metropolis-Hastings algorithm. Variational Inference. KL Divergence. ELBO. Classes of approximate Bayesian inference. 
 - Bias-variance. Bias error. Variance error. Curse of dimensionality. Vapnik–Chervonenkis dimension. Shattering. Evaluation of non bayesian models. Evaluation of bayesian models. f-divergence. Integral probability metrics. 
