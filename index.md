@@ -17,9 +17,9 @@ layout: default
 |10|no pre-reading|[L10](/static/PUMA2020_lecture_10.pdf)
 |11|[Hidden Markov Models Simplified](https://medium.com/@postsanjay/hidden-markov-models-simplified-c3f58728caab)|[L11](/static/PUMA2020_lecture_11.pdf)
 |12|Rep. Lecture 5|
-|13|Conformal prediction|
+|13|no pre-reading|[L13](/static/PUMA2020_lecture_13.pdf)
 |14|Exam - round 0|  
-|15||
+|15|Individal Q&A|
 
 ### Exam:
 
